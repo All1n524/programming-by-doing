@@ -1,2 +1,24 @@
 8/17/2021
-We downloaded github, created the respitory 
+We downloaded java on our computure and learned how to test to see if it's installed successfully by inputing "javac -version"
+We practiced compiling and running a java program by running a Sinewave stored in the file renamed as "Compsci"
+  - cd Documents
+  - cd CompSci
+  - javac SineWave.java
+  - java SineWave
+  
+
+8/20
+We started writing our own program and run it on our computer. 
+The program is the one shown below:
+  public class FirstProg
+  {
+  	public static void main(String[] args )
+  	{
+	   	System.out.println("I’m very cool.");
+  	}
+  }
+The way how I run this program is same as 8/17. cd Documents/GitHub/BasicsAndPrinting/FirstProg , javac FirstProg.java , java FirstProg
+
+public: anyone can access it
+static: Use to group classes together and to access the primitie membre of the enclosing class through the object reference. 
+void: Method does not return to anything. 
