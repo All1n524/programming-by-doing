@@ -1,3 +1,4 @@
+//Variables Variables and Names 7 points Allen Hung
 public class VariablesAndNames
 {
     public static void main( String[] args )
