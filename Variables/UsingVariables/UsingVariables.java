@@ -12,4 +12,5 @@ public class UsingVariables
   System.out.println("e is close to" + e);
   System.out.println("I'm learning a bit about " + className);
   }
+
 }

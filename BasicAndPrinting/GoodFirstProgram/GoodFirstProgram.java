@@ -9,5 +9,7 @@ public class GoodFirstProgram
 		System.out.println( "Yay! Printing." );
 		System.out.println( "I'd much rather you 'not'." );
 		System.out.println( "I \"said\" do not touch this." );
+		//according to the assignment, I have to print another line of output
+		System.out.println("According to the assignment, it wants us to print another line of output.")
 	}
 }
