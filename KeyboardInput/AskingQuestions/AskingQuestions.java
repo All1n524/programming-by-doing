@@ -1,3 +1,4 @@
+//KeyBoard Input Asking Questions 10 points ALlen Hung
 import java.util.Scanner;
 
 public class AskingQuestions
