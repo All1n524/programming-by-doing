@@ -8,7 +8,7 @@ public class CommentsAndSlashes
     {
 
 
-        System.out.println( "I could have code like this." ); // and the comment after is ignored.
+        System.out.println( "I could have code like this." );
 
 
         System.out.println( "This will run." );
