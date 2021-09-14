@@ -22,3 +22,7 @@ The way how I run this program is same as 8/17. cd Documents/GitHub/BasicsAndPri
 public: anyone can access it
 static: Use to group classes together and to access the primitie membre of the enclosing class through the object reference. 
 void: Method does not return to anything. 
+
+
+9/14
+Finished GUIs. 
