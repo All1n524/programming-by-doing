@@ -1,3 +1,4 @@
+//If Statements 2 Twenty Questions 35 points Allen Hung
 import java.util.Scanner;
 public class TwentyQuestions
 {
@@ -5,11 +6,11 @@ public class TwentyQuestions
   {
     Scanner keyboard = new Scanner(System.in);
     String type, size, guess;
+    guess = "";
 
     System.out.println("TWO QUESTIONS");
     System.out.println("Question 1) Is it animal, vegetable, or mineral?");
-    type = keyboard.next();// Define type
-
+    type = keyboard.next();
     System.out.println("Question 2) Is it bigger than a breadbox? \"yes or no \" ");
     size = keyboard.next();
     if (type.equalsIgnoreCase("animal"))
@@ -39,6 +40,6 @@ public class TwentyQuestions
           guess = "paper clip";
         }
       }
-      System.out.println("My guess is that you are thinking of a" + guess + ".");
+      System.out.println("My guess is that you are thinking of a " + guess + ".");
   }
 }
