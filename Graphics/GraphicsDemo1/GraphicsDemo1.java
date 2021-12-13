@@ -1,3 +1,4 @@
+//Graphics GraphicsDemo1 Allen Hung 20 points
 import java.awt.*;
 import javax.swing.JFrame;
 

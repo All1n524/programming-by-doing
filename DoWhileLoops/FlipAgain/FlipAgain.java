@@ -10,14 +10,12 @@ public class FlipAgain
 		Scanner keyboard = new Scanner(System.in);
 		Random r = new Random();
 
-
-
+		String again;
+		String coin;
 
 		do
 			{
 			int flip = r.nextInt(2);
-			String coin;
-			String again;
 
 
 			if ( flip == 1 ) {
@@ -29,7 +27,7 @@ public class FlipAgain
 
 			System.out.print( "Would you like to flip again (y/n)? " );
 			again = keyboard.next();
-			} while (again==("y"));
+		} while (again.equalsIgnoreCase("y"));
 
 	}
 }
