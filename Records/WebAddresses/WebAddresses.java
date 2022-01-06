@@ -1,4 +1,4 @@
-//
+// Record Web Addresses 30 points Allen Hung
 import java.net.URL;
 import java.util.Scanner;
 
