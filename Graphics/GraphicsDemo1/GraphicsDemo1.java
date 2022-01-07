@@ -11,7 +11,7 @@ public class GraphicsDemo1 extends Canvas
 		g.fillOval(160,20,100,200); // draw a filled-in oval
 		g.setColor(Color.blue);
 		g.fillRect(200,400,200,20); // a filled-in rectangle
-		g.drawOval(200,430,200,100);
+		g.drawOval(20,430,200,100);
 
 		g.setColor(Color.black);
 		g.drawString("Graphics are pretty neat.", 500, 100);
